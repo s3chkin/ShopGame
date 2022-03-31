@@ -1,6 +1,6 @@
 * {
     transition: ease-in-out 0.1s;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: sans-serif;
 }
 
 body {
@@ -124,5 +124,11 @@ body {
 #celledProducts8,
 #celledProducts9,
 #celledProducts10 {
+    display: none;
+}
+
+#prdct1,
+#prdct2,
+#prdct3 {
     display: none;
 }

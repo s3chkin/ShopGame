@@ -49,7 +49,7 @@ function buy() {
     moneys = moneys2;
     document.getElementById("myMoneys").innerHTML = `${moneys.toFixed(2)} лева`;
     if (moneys <= 0) {
-        alert("Парите свършиха! Продайте нещо!");
+        alert("Парите свършиха!");
         document.getElementById("myMoneys").innerHTML = `0 лева`;
     }
 
@@ -108,7 +108,7 @@ function buy2() {
     moneys = moneys2;
     document.getElementById("myMoneys").innerHTML = `${moneys.toFixed(2)} лева`;
     if (moneys <= 0) {
-        alert("Парите свършиха! Продайте нещо!");
+        alert("Парите свършиха!");
         document.getElementById("myMoneys").innerHTML = `0 лева`;
     }
 
@@ -162,7 +162,7 @@ function buy3() {
     moneys = moneys2;
     document.getElementById("myMoneys").innerHTML = `${moneys.toFixed(2)} лева`;
     if (moneys <= 0) {
-        alert("Парите свършиха! Продайте нещо!");
+        alert("Парите свършиха!");
         document.getElementById("myMoneys").innerHTML = `0 лева`;
     }
 
@@ -216,7 +216,7 @@ function buy4() {
     moneys = moneys2;
     document.getElementById("myMoneys").innerHTML = `${moneys.toFixed(2)} лева`;
     if (moneys <= 0) {
-        alert("Парите свършиха! Продайте нещо!");
+        alert("Парите свършиха!");
         document.getElementById("myMoneys").innerHTML = `0 лева`;
     }
 
@@ -262,7 +262,7 @@ function buy5() {
     document.getElementById("myMoneys").innerHTML = `${moneys.toFixed(2)} лева`;
 
     if (moneys <= 0) {
-        alert("Парите свършиха! Продайте нещо!");
+        alert("Парите свършиха!");
         document.getElementById("myMoneys").innerHTML = `0 лева`;
     }
 
@@ -326,7 +326,7 @@ function buy6() {
     moneys = moneys2;
     document.getElementById("myMoneys").innerHTML = `${moneys.toFixed(2)} лева`;
     if (moneys <= 0) {
-        alert("Парите свършиха! Продайте нещо!");
+        alert("Парите свършиха!");
         document.getElementById("myMoneys").innerHTML = `0 лева`;
     }
     if (moneys < egg) {
@@ -379,7 +379,7 @@ function buy7() {
     moneys = moneys2;
     document.getElementById("myMoneys").innerHTML = `${moneys.toFixed(2)} лева`;
     if (moneys <= 0) {
-        alert("Парите свършиха! Продайте нещо!");
+        alert("Парите свършиха!");
         document.getElementById("myMoneys").innerHTML = `0 лева`;
     }
     if (moneys < egg) {
@@ -432,7 +432,7 @@ function buy8() {
     moneys = moneys2;
     document.getElementById("myMoneys").innerHTML = `${moneys.toFixed(2)} лева`;
     if (moneys <= 0) {
-        alert("Парите свършиха! Продайте нещо!");
+        alert("Парите свършиха!");
         document.getElementById("myMoneys").innerHTML = `0 лева`;
     }
     if (moneys < egg) {
@@ -486,7 +486,7 @@ function buy9() {
     moneys = moneys2;
     document.getElementById("myMoneys").innerHTML = `${moneys.toFixed(2)} лева`;
     if (moneys <= 0) {
-        alert("Парите свършиха! Продайте нещо!");
+        alert("Парите свършиха!");
         document.getElementById("myMoneys").innerHTML = `0 лева`;
     }
     if (moneys < egg) {
@@ -540,7 +540,7 @@ function buy10() {
     moneys = moneys2;
     document.getElementById("myMoneys").innerHTML = `${moneys.toFixed(2)} лева`;
     if (moneys <= 0) {
-        alert("Парите свършиха! Продайте нещо!");
+        alert("Парите свършиха!");
         document.getElementById("myMoneys").innerHTML = `0 лева`;
     }
     if (moneys < egg) {
